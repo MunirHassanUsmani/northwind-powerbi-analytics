@@ -6,7 +6,7 @@ An end-to-end business intelligence solution analyzing sales performance, custom
 ## 🚀 Features
 - **5 Interactive Report Pages**
 - **Star Schema Data Modeling**
-- **25+ DAX Measures**
+- **DAX Measures**
 - **Drill-through Functionality**
 - **Time Intelligence Analysis**
 - **Advanced Visualizations**
